@@ -1,0 +1,23 @@
+{
+  "DM_PHUONGTIEN":[
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID":1,"DIEN_GIAI":"Máy bay","TEN_NN":"By air"
+    },
+    {
+      "ID":2,"DIEN_GIAI":"Ô tô","TEN_NN":"By car"
+    },
+    {
+      "ID":3,"DIEN_GIAI":"Tàu thuỷ","TEN_NN":"By waterway"
+    },
+    {
+      "ID":4,"DIEN_GIAI":"Tàu hỏa","TEN_NN":"By train"
+    },
+    {
+      "ID":5,"DIEN_GIAI":"Phương tiện khác","TEN_NN":"Others"
+    }
+  ]
+}

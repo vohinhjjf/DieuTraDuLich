@@ -1,0 +1,173 @@
+{
+  "NgoaiTe": [
+    {
+      "STT": 0,
+      "MA_NT": "--",
+      "TEN_NT": "Vui lòng nhập",
+      "TY_GIA": 0
+    },
+    {
+      "STT": 1,
+      "MA_NT": "AED",
+      "TEN_NT": "Tiền Các Tiểu vương quốc Ả rập thống nhất",
+      "TY_GIA": 6105.63
+    },
+    {
+      "STT": 2,
+      "MA_NT": "AUD",
+      "TEN_NT": "AUST.DOLLAR",
+      "TY_GIA": 16319.26
+    },
+    {
+      "STT": 3,
+      "MA_NT": "CAD",
+      "TEN_NT": "CANADIAN DOLLAR",
+      "TY_GIA": 16713.59
+    },
+    {
+      "STT": 4,
+      "MA_NT": "CHF",
+      "TEN_NT": "SWISS FRANCE",
+      "TY_GIA": 22476.54
+    },
+    {
+      "STT": 5,
+      "MA_NT": "CNY",
+      "TEN_NT": "Nhân dân tệ (Trung Quốc)",
+      "TY_GIA": 3519.00
+    },
+    {
+      "STT": 6,
+      "MA_NT": "DKK",
+      "TEN_NT": "DANISH KRONE",
+      "TY_GIA": 3301.10
+    },
+    {
+      "STT": 7,
+      "MA_NT": "EUR",
+      "TEN_NT": "EURO",
+      "TY_GIA": 24346.71
+    },
+    {
+      "STT": 8,
+      "MA_NT": "GBP",
+      "TEN_NT": "BRITISH POUND",
+      "TY_GIA": 31531.76
+    },
+    {
+      "STT": 9,
+      "MA_NT": "HKD",
+      "TEN_NT": "HONGKONG DOLLAR",
+      "TY_GIA": 2888.50
+    },
+    {
+      "STT": 10,
+      "MA_NT": "INR",
+      "TEN_NT": "INDIAN RUPEE",
+      "TY_GIA": 337.91
+    },
+    {
+      "STT": 11,
+      "MA_NT": "JPY",
+      "TEN_NT": "JAPANESE YEN",
+      "TY_GIA": 197.17
+    },
+    {
+      "STT": 12,
+      "MA_NT": "KHR",
+      "TEN_NT": "Tiền Campuchia",
+      "TY_GIA": 5.56
+    },
+    {
+      "STT": 13,
+      "MA_NT": "KRW",
+      "TEN_NT": "SOUTH KOREAN WON",
+      "TY_GIA": 19.43
+    },
+    {
+      "STT": 14,
+      "MA_NT": "KWD",
+      "TEN_NT": "KUWAITI DINAR",
+      "TY_GIA": 75340.28
+    },
+    {
+      "STT": 15,
+      "MA_NT": "LAK",
+      "TEN_NT": "Kip Lao",
+      "TY_GIA": 2.74
+    },
+    {
+      "STT": 16,
+      "MA_NT": "MMK",
+      "TEN_NT": "Tiền Myanmar",
+      "TY_GIA": 17.55
+    },
+    {
+      "STT": 17,
+      "MA_NT": "MYR",
+      "TEN_NT": "MALAYSIAN RINGGIT",
+      "TY_GIA": 5420.01
+    },
+    {
+      "STT": 18,
+      "MA_NT": "NOK",
+      "TEN_NT": "NOREGIAN KRONER",
+      "TY_GIA": 2615.43
+    },
+    {
+      "STT": 19,
+      "MA_NT": "RUB",
+      "TEN_NT": "RUSSIAN RUBLE",
+      "TY_GIA": 337.36
+    },
+    {
+      "STT": 20,
+      "MA_NT": "SAR",
+      "TEN_NT": "SAUDI RIAL",
+      "TY_GIA": 6135.53
+    },
+    {
+      "STT": 21,
+      "MA_NT": "SEK",
+      "TEN_NT": "SWEDISH KRONA",
+      "TY_GIA": 2622.75
+    },
+    {
+      "STT": 22,
+      "MA_NT": "SGD",
+      "TEN_NT": "SINGAPORE DOLLAR",
+      "TY_GIA": 16067.63
+    },
+    {
+      "STT": 23,
+      "MA_NT": "THB",
+      "TEN_NT": "THAI BAHT",
+      "TY_GIA": 640.88
+    },
+    {
+      "STT": 24,
+      "MA_NT": "TRY",
+      "TEN_NT": "Tiền Thổ Nhĩ Kỳ",
+      "TY_GIA": 7474.37
+    },
+    {
+      "STT": 25,
+      "MA_NT": "TWD",
+      "TEN_NT": "Tiền Đài Loan",
+      "TY_GIA": 668.83
+    },
+    {
+      "STT": 26,
+      "MA_NT": "USD",
+      "TEN_NT": "US DOLLAR",
+      "TY_GIA": 22560.00
+    },
+    {
+      "STT": 27,
+      "MA_NT": "VND",
+      "TEN_NT": "Tiền Việt Nam",
+      "TY_GIA": 1000.00
+    }
+  ]
+}
+

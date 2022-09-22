@@ -1,0 +1,56 @@
+{
+  "Thang": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Tháng 1"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Tháng 2"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Tháng 3"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Tháng 4"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Tháng 5"
+    },
+    {
+      "ID": 6,
+      "DIEN_GIAI": "Tháng 6"
+    },
+    {
+      "ID": 7,
+      "DIEN_GIAI": "Tháng 7"
+    },
+    {
+      "ID": 8,
+      "DIEN_GIAI": "Tháng 8"
+    },
+    {
+      "ID": 9,
+      "DIEN_GIAI": "Tháng 9"
+    },
+    {
+      "ID": 10,
+      "DIEN_GIAI": "Tháng 10"
+    },
+    {
+      "ID": 11,
+      "DIEN_GIAI": "Tháng 11"
+    },
+    {
+      "ID": 12,
+      "DIEN_GIAI": "Tháng 12"
+    }
+  ]
+}

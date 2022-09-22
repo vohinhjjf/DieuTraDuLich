@@ -1,0 +1,28 @@
+{
+  "DanhGia": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Rất tốt"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Tốt"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Bình thường"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Không tốt"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Rất không tốt"
+    }
+  ]
+}

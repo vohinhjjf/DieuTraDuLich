@@ -1,0 +1,227 @@
+{
+  "Questions":[
+    {
+      "STT": 1,
+      "MaCauHoi": "TINH",
+      "TenCauHoi": "Mã tỉnh",
+      "TenMoTa": "Mã tỉnh",
+      "GiaiThich": "Mã tỉnh",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 2,
+      "MaCauHoi": "HUYEN",
+      "TenCauHoi": "Mã huyện",
+      "TenMoTa": "Mã huyện",
+      "GiaiThich": "Mã huyện",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 3,
+      "MaCauHoi": "XA",
+      "TenCauHoi": "Mã xã",
+      "TenMoTa": "Mã xã",
+      "GiaiThich": "Mã xã",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 4,
+      "MaCauHoi": "TENCHUHO",
+      "TenCauHoi": "1.Tên chủ hộ",
+      "TenMoTa": "1.Tên chủ hộ",
+      "GiaiThich": "Tên chủ hộ",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 5,
+      "MaCauHoi": "DIACHI",
+      "TenCauHoi": "2.4.Địa chỉ hộ: Thôn, ấp (số nhà, đường phố)",
+      "TenMoTa": "2.4.Địa chỉ hộ",
+      "GiaiThich": "Địa chỉ hộ",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 6,
+      "MaCauHoi": "DIENTHOAI",
+      "TenCauHoi": "2.5.Số điện thoại của hộ",
+      "TenMoTa": "2.5.Số điện thoại của hộ",
+      "GiaiThich": "Số điện thoại của hộ",
+      "CauTraLoi": "",
+      "TypeFragment": 1,
+      "Options": []
+    },
+    {
+      "STT": 7,
+      "MaCauHoi": "CO_DULICH",
+      "TenCauHoi": "3.Trong năm 2018, hộ Ông/Bà có các thành viên đi du lịch không?",
+      "TenMoTa": "3.Có đi du lịch không?",
+      "GiaiThich": "Hộ Ông/Bà có các thành viên đi du lịch không?",
+      "CauTraLoi": "",
+      "TypeFragment": 3,
+      "Options": [
+        {
+          "MaChon": 1,
+          "TenChon": "1.Có"
+        },
+        {
+          "MaChon": 2,
+          "TenChon": "2.Không"
+        }
+      ]
+    },
+    {
+      "STT": 8,
+      "MaCauHoi": "DANHSACH",
+      "TenCauHoi": "4.Xin Ông/Bà vui lòng cho biết thông tin về những thành viên này?",
+      "TenMoTa": "4.Thông tin về những thành viên này?",
+      "GiaiThich": "Thông tin về những thành viên này",
+      "CauTraLoi": "",
+      "TypeFragment": 10,
+      "Options": []
+    },
+    {
+      "STT": 9,
+      "MaCauHoi": "CHUYEN",
+      "TenCauHoi": "5.Chi tiết về đặc điểm các chuyến đi?",
+      "TenMoTa": "5.Chi tiết về đặc điểm các chuyến đi?",
+      "GiaiThich": "Chi tiết về đặc điểm các chuyến đi",
+      "CauTraLoi": "",
+      "TypeFragment": 11,
+      "Options": []
+    },
+    {
+      "STT": 10,
+      "MaCauHoi": "CHIPHI",
+      "TenCauHoi": "6.Chi tiết về chi tiêu các chuyến đi?",
+      "TenMoTa": "6.Chi tiết về chi tiêu các chuyến đi?",
+      "GiaiThich": "Chi tiết về chi tiêu các chuyến đi",
+      "CauTraLoi": "",
+      "TypeFragment": 12,
+      "Options": []
+    },
+    {
+      "STT": 11,
+      "MaCauHoi": "DANHGIA",
+      "TenCauHoi": "7.Xin Ông/Bà cho đánh giá về chất lượng một số dịch vụ cơ bản tại nơi đến?",
+      "TenMoTa": "7.Đánh giá dịch vụ cơ bản tại nơi đến?",
+      "GiaiThich": "Xin Ông/Bà cho đánh giá về chất lượng một số dịch vụ cơ bản tại nơi đến",
+      "CauTraLoi": "",
+      "TypeFragment": 13,
+      "Options": []
+    },
+    {
+      "STT": 12,
+      "MaCauHoi": "THAMKHAO",
+      "TenCauHoi": "8.Ông ( bà) đã tham khảo từ đâu để quyết định chuyến du lịch này?",
+      "TenMoTa": "8.Đã tham khảo từ đâu cho chuyến du lịch này?",
+      "GiaiThich": "Ông ( bà) đã tham khảo từ đâu để quyết định chuyến du lịch này?",
+      "CauTraLoi": "",
+      "TypeFragment": 5,
+      "Options": [
+        {
+          "MaChon": 1,
+          "TenChon": "1.Bạn bè, người thân"
+        },
+        {
+          "MaChon": 2,
+          "TenChon": "2.Sách báo, tạp chí"
+        },
+        {
+          "MaChon": 3,
+          "TenChon": "3.Internet"
+        },
+        {
+          "MaChon": 4,
+          "TenChon": "4.Công ty du lịch"
+        },
+        {
+          "MaChon": 5,
+          "TenChon": "5.Tivi"
+        },
+        {
+          "MaChon": 6,
+          "TenChon": "6.Được mời"
+        },
+        {
+          "MaChon": 7,
+          "TenChon": "7.Khác"
+        }
+		]
+    },
+    {
+      "STT": 13,
+      "MaCauHoi": "QUAYLAI",
+      "TenCauHoi": "9.Ông/Bà có ý định quay trở lại một trong các địa điểm đã đến trong các chuyến đi này không?",
+      "TenMoTa": "9.Có quay trở lại một trong các địa điểm đã đến không?",
+      "GiaiThich": "Ông/Bà có ý định quay trở lại một trong các địa điểm đã đến trong các chuyến đi này không?",
+      "CauTraLoi": "",
+      "TypeFragment": 3,
+      "Options": [
+        {
+          "MaChon": 1,
+          "TenChon": "1.Có"
+        },
+        {
+          "MaChon": 2,
+          "TenChon": "2.Không"
+        }
+      ]
+    },
+    {
+      "STT": 14,
+      "MaCauHoi": "DICHVUXAU",
+      "TenCauHoi": "10.Chất lượng dịch vụ nào đã nêu trong câu 7 hoặc lý do khác có tác động lớn nhất khiến Ông/Bà không có ý định quay trở lại?",
+      "TenMoTa": "10.Chất lượng dịch vụ nào Ông/Bà không có ý định quay trở lại?",
+      "GiaiThich": "Chất lượng dịch vụ nào đã nêu trong câu 7 hoặc lý do khác có tác động lớn nhất khiến Ông/Bà không có ý định quay trở lại?",
+      "CauTraLoi": "",
+      "TypeFragment": 4,
+      "Options": [
+        {
+          "MaChon": 1,
+          "TenChon": "1.Cơ sở lưu trú"
+        },
+        {
+          "MaChon": 2,
+          "TenChon": "2.Dịch vụ lữ hành"
+        },
+        {
+          "MaChon": 3,
+          "TenChon": "3.Nhà hàng, quán ăn"
+        },
+        {
+          "MaChon": 4,
+          "TenChon": "4.Điểm tham quan"
+        },
+        {
+          "MaChon": 5,
+          "TenChon": "5.Vệ sinh môi trường nơi đến"
+        },
+        {
+          "MaChon": 6,
+          "TenChon": "6.Lý do khác (ghi rõ)"
+        }
+      ]
+    },   
+    {
+      "STT": 15,
+      "MaCauHoi": "FINISH",
+      "TenCauHoi": "Kết thúc phỏng vấn",
+      "TenMoTa": "Hoàn thành phỏng vấn",
+      "GiaiThich": "",
+      "CauTraLoi": "",
+      "TypeFragment": 14,
+      "Options": []
+    }
+
+  ]
+}

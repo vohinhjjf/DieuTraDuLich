@@ -1,0 +1,44 @@
+{
+  "TrinhDo": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Chưa qua đào tạo"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Đào tạo dưới 3 tháng"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Sơ cấp"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Trung cấp"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Cao đẳng"
+    },
+    {
+      "ID": 6,
+      "DIEN_GIAI": "Đại học"
+    },
+    {
+      "ID": 7,
+      "DIEN_GIAI": "Thạc sỹ"
+    },
+    {
+      "ID": 8,
+      "DIEN_GIAI": "Tiến sỹ"
+    },
+    {
+      "ID": 9,
+      "DIEN_GIAI": "Trình độ khác"
+    }
+  ]
+}

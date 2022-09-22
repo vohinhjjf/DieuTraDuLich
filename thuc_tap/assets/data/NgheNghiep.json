@@ -1,0 +1,48 @@
+{
+  "NgheNghiep": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Thương gia"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Nhà báo"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Giáo sư, giáo viên"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Kiến trúc sư"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Hưu trí"
+    },
+    {
+      "ID": 6,
+      "DIEN_GIAI": "Học sinh, sinh viên"
+    },
+    {
+      "ID": 7,
+      "DIEN_GIAI": "Công chức, viên chức"
+    },
+    {
+      "ID": 8,
+      "DIEN_GIAI": "Công nhân"
+    },
+	{
+      "ID": 9,
+      "DIEN_GIAI": "Nông dân"
+    },
+    {
+      "ID": 10,
+      "DIEN_GIAI": "Khác"
+    }
+  ]
+}

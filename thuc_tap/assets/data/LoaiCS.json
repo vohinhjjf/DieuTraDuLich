@@ -1,0 +1,52 @@
+{
+  "LoaiCS": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Khách sạn 1 sao"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Khách sạn 2 sao"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Khách sạn 3 sao"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Khách sạn 4 sao"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Khách sạn 5 sao"
+    },
+    {
+      "ID": 6,
+      "DIEN_GIAI": "Khách sạn chưa xếp hạng sao"
+    },
+    {
+      "ID": 7,
+      "DIEN_GIAI": "Nhà nghỉ, nhà khách"
+    },
+    {
+      "ID": 8,
+      "DIEN_GIAI": "Biệt thự kinh doanh du lịch"
+    },
+    {
+      "ID": 9,
+      "DIEN_GIAI": "Làng du lịch"
+    },
+    {
+      "ID": 10,
+      "DIEN_GIAI": "Căn hộ kinh doanh du lịch"
+    },
+    {
+      "ID": 11,
+      "DIEN_GIAI": "Khác"
+    }
+  ]
+}

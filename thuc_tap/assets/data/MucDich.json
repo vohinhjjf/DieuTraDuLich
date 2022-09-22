@@ -1,0 +1,36 @@
+{
+  "MucDich": [
+    {
+      "ID": 0,
+      "DIEN_GIAI": "- - Chọn - -"
+    },
+    {
+      "ID": 1,
+      "DIEN_GIAI": "Du lịch, nghỉ ngơi, thăm quan, vui chơi giải trí"
+    },
+    {
+      "ID": 2,
+      "DIEN_GIAI": "Thông tin báo chí"
+    },
+    {
+      "ID": 3,
+      "DIEN_GIAI": "Hội nghị, hội thảo"
+    },
+    {
+      "ID": 4,
+      "DIEN_GIAI": "Thăm họ hàng, bạn bè"
+    },
+    {
+      "ID": 5,
+      "DIEN_GIAI": "Thương mại"
+    },
+    {
+      "ID": 6,
+      "DIEN_GIAI": "Chữa bệnh"
+    },
+    {
+      "ID": 7,
+      "DIEN_GIAI": "Mục đích khác"
+    }
+  ]
+}

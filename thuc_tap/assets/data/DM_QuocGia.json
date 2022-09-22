@@ -1,0 +1,1180 @@
+{
+  "QuocGia": [
+    {
+      "STT": 1,
+      "MAQG": "AD",
+      "TENQG": "An-đô-ra"
+    },
+    {
+      "STT": 2,
+      "MAQG": "AE",
+      "TENQG": "Các tiểu VQ Ả-rập Thống Nhất"
+    },
+    {
+      "STT": 3,
+      "MAQG": "AF",
+      "TENQG": "Ap-ga-ni-xtan"
+    },
+    {
+      "STT": 4,
+      "MAQG": "AFR",
+      "TENQG": "Africa"
+    },
+    {
+      "STT": 5,
+      "MAQG": "AG",
+      "TENQG": "Ang-ti-goa và Bác-bu-đa"
+    },
+    {
+      "STT": 6,
+      "MAQG": "AI",
+      "TENQG": "An-ghi-la"
+    },
+    {
+      "STT": 7,
+      "MAQG": "AL",
+      "TENQG": "An-ba-ni"
+    },
+    {
+      "STT": 8,
+      "MAQG": "AM",
+      "TENQG": "Ac-mê-ni-a"
+    },
+    {
+      "STT": 9,
+      "MAQG": "AMR",
+      "TENQG": "America"
+    },
+    {
+      "STT": 10,
+      "MAQG": "AN",
+      "TENQG": "Ne-dơ-lân an-tin-lơ"
+    },
+    {
+      "STT": 11,
+      "MAQG": "AO",
+      "TENQG": "Ăn-gô-la"
+    },
+    {
+      "STT": 12,
+      "MAQG": "AR",
+      "TENQG": "Ac-hen-ti-na"
+    },
+    {
+      "STT": 13,
+      "MAQG": "AS",
+      "TENQG": "Xa-moa"
+    },
+    {
+      "STT": 14,
+      "MAQG": "ASI",
+      "TENQG": "Châu á"
+    },
+    {
+      "STT": 15,
+      "MAQG": "AT",
+      "TENQG": "Áo"
+    },
+    {
+      "STT": 16,
+      "MAQG": "AU",
+      "TENQG": "Ô-xtrây-li-a"
+    },
+    {
+      "STT": 17,
+      "MAQG": "AW",
+      "TENQG": "A-ru-ba"
+    },
+    {
+      "STT": 18,
+      "MAQG": "AZ",
+      "TENQG": "A-dec-bai-zan"
+    },
+    {
+      "STT": 19,
+      "MAQG": "BA",
+      "TENQG": "Bô-xnhi-a Hec-xê-gô-vi-na"
+    },
+    {
+      "STT": 20,
+      "MAQG": "BB",
+      "TENQG": "Bac-ba-đot"
+    },
+    {
+      "STT": 21,
+      "MAQG": "BD",
+      "TENQG": "Băng-la-đet"
+    },
+    {
+      "STT": 22,
+      "MAQG": "BE",
+      "TENQG": "Bỉ"
+    },
+    {
+      "STT": 23,
+      "MAQG": "BF",
+      "TENQG": "Buốc-ki-na-fa-xô"
+    },
+    {
+      "STT": 24,
+      "MAQG": "BG",
+      "TENQG": "Bun-ga-ri"
+    },
+    {
+      "STT": 25,
+      "MAQG": "BH",
+      "TENQG": "Ba-ren"
+    },
+    {
+      "STT": 26,
+      "MAQG": "BI",
+      "TENQG": "Bu-run-đi"
+    },
+    {
+      "STT": 27,
+      "MAQG": "BJ",
+      "TENQG": "Bê-nanh"
+    },
+    {
+      "STT": 28,
+      "MAQG": "BM",
+      "TENQG": "Béc-mu-đa"
+    },
+    {
+      "STT": 29,
+      "MAQG": "BN",
+      "TENQG": "Bru-nây"
+    },
+    {
+      "STT": 30,
+      "MAQG": "BO",
+      "TENQG": "Bô-li-vi-a"
+    },
+    {
+      "STT": 31,
+      "MAQG": "BR",
+      "TENQG": "Bra-xin"
+    },
+    {
+      "STT": 32,
+      "MAQG": "BS",
+      "TENQG": "Ba-ha-ma"
+    },
+    {
+      "STT": 33,
+      "MAQG": "BT",
+      "TENQG": "Bu-tan"
+    },
+    {
+      "STT": 34,
+      "MAQG": "BW",
+      "TENQG": "Bôt-xoa-na"
+    },
+    {
+      "STT": 35,
+      "MAQG": "BY",
+      "TENQG": "Bê-la-rut"
+    },
+    {
+      "STT": 36,
+      "MAQG": "BZ",
+      "TENQG": "Be-li-zơ"
+    },
+    {
+      "STT": 37,
+      "MAQG": "CA",
+      "TENQG": "Ca-na-đa"
+    },
+    {
+      "STT": 38,
+      "MAQG": "CC",
+      "TENQG": "Đảo Cô-cô"
+    },
+    {
+      "STT": 39,
+      "MAQG": "CF",
+      "TENQG": "Công hòa Trung phi"
+    },
+    {
+      "STT": 40,
+      "MAQG": "CG",
+      "TENQG": "Công-gô"
+    },
+    {
+      "STT": 41,
+      "MAQG": "CH",
+      "TENQG": "Thụy Sĩ"
+    },
+    {
+      "STT": 42,
+      "MAQG": "CI",
+      "TENQG": "Cốt-đi-voa (Bờ biển Ngà)"
+    },
+    {
+      "STT": 43,
+      "MAQG": "CK",
+      "TENQG": "Đảo Cúc"
+    },
+    {
+      "STT": 44,
+      "MAQG": "CL",
+      "TENQG": "Chi-lê"
+    },
+    {
+      "STT": 45,
+      "MAQG": "CM",
+      "TENQG": "Ca-mơ-run"
+    },
+    {
+      "STT": 46,
+      "MAQG": "CN",
+      "TENQG": "Trung Quốc"
+    },
+    {
+      "STT": 47,
+      "MAQG": "CO",
+      "TENQG": "Cô-lôm-bi-a"
+    },
+    {
+      "STT": 48,
+      "MAQG": "CR",
+      "TENQG": "Côt-xta-ri-ca"
+    },
+    {
+      "STT": 49,
+      "MAQG": "CS",
+      "TENQG": "Séc"
+    },
+    {
+      "STT": 50,
+      "MAQG": "CU",
+      "TENQG": "Cu-ba"
+    },
+    {
+      "STT": 51,
+      "MAQG": "CV",
+      "TENQG": "Cộng hòa Cáp-ve"
+    },
+    {
+      "STT": 52,
+      "MAQG": "CX",
+      "TENQG": "Đảo Crit-mat"
+    },
+    {
+      "STT": 53,
+      "MAQG": "CY",
+      "TENQG": "Síp"
+    },
+    {
+      "STT": 54,
+      "MAQG": "DE",
+      "TENQG": "Đức"
+    },
+    {
+      "STT": 55,
+      "MAQG": "DJ",
+      "TENQG": "Gi-bu-ti"
+    },
+    {
+      "STT": 56,
+      "MAQG": "DK",
+      "TENQG": "Đan-mạch"
+    },
+    {
+      "STT": 57,
+      "MAQG": "DM",
+      "TENQG": "Đô-mi-ni-ca-na"
+    },
+    {
+      "STT": 58,
+      "MAQG": "DO",
+      "TENQG": "CH Đô-mi-ni-ca-na"
+    },
+    {
+      "STT": 59,
+      "MAQG": "DZ",
+      "TENQG": "An-giê-ri"
+    },
+    {
+      "STT": 60,
+      "MAQG": "EC",
+      "TENQG": "Ê-cu-a-đo"
+    },
+    {
+      "STT": 61,
+      "MAQG": "EE",
+      "TENQG": "Et-xtô-ni-a"
+    },
+    {
+      "STT": 62,
+      "MAQG": "EG",
+      "TENQG": "Ai-cập"
+    },
+    {
+      "STT": 63,
+      "MAQG": "EH",
+      "TENQG": "Tây Sa-ha-ra"
+    },
+    {
+      "STT": 64,
+      "MAQG": "ER",
+      "TENQG": "Ê-riOtrê-a"
+    },
+    {
+      "STT": 65,
+      "MAQG": "ES",
+      "TENQG": "Tây Ban Nha"
+    },
+    {
+      "STT": 66,
+      "MAQG": "ET",
+      "TENQG": "Ê-ti-ô-pi"
+    },
+    {
+      "STT": 67,
+      "MAQG": "EUR",
+      "TENQG": "Europe"
+    },
+    {
+      "STT": 68,
+      "MAQG": "FI",
+      "TENQG": "Phần-lan"
+    },
+    {
+      "STT": 69,
+      "MAQG": "FJ",
+      "TENQG": "Phi-gi"
+    },
+    {
+      "STT": 70,
+      "MAQG": "FK",
+      "TENQG": "Đảo Phooc-lan"
+    },
+    {
+      "STT": 71,
+      "MAQG": "FM",
+      "TENQG": "Liên bang Mi-cro-nê-si-a"
+    },
+    {
+      "STT": 72,
+      "MAQG": "FO",
+      "TENQG": "Đảo Fa-ê-rô"
+    },
+    {
+      "STT": 73,
+      "MAQG": "FR",
+      "TENQG": "Pháp"
+    },
+    {
+      "STT": 74,
+      "MAQG": "GA",
+      "TENQG": "Ga-bông"
+    },
+    {
+      "STT": 75,
+      "MAQG": "GB",
+      "TENQG": "Anh"
+    },
+    {
+      "STT": 76,
+      "MAQG": "GD",
+      "TENQG": "Grê-na-đa"
+    },
+    {
+      "STT": 77,
+      "MAQG": "GE",
+      "TENQG": "Gru-di-a"
+    },
+    {
+      "STT": 78,
+      "MAQG": "GF",
+      "TENQG": "Gui-an (Pháp)"
+    },
+    {
+      "STT": 79,
+      "MAQG": "GH",
+      "TENQG": "Ga-na"
+    },
+    {
+      "STT": 80,
+      "MAQG": "GI",
+      "TENQG": "Gi-bran-ta"
+    },
+    {
+      "STT": 81,
+      "MAQG": "GL",
+      "TENQG": "Grin-len"
+    },
+    {
+      "STT": 82,
+      "MAQG": "GM",
+      "TENQG": "Găm-bi-a"
+    },
+    {
+      "STT": 83,
+      "MAQG": "GN",
+      "TENQG": "Ghi-nê"
+    },
+    {
+      "STT": 84,
+      "MAQG": "GP",
+      "TENQG": "Goa-đơ-lúp"
+    },
+    {
+      "STT": 85,
+      "MAQG": "GQ",
+      "TENQG": "Ghi-nê Xích đạo"
+    },
+    {
+      "STT": 86,
+      "MAQG": "GR",
+      "TENQG": "Hy-lạp"
+    },
+    {
+      "STT": 87,
+      "MAQG": "GT",
+      "TENQG": "CH Goa-tê-ma-la"
+    },
+    {
+      "STT": 88,
+      "MAQG": "GU",
+      "TENQG": "Gu-am"
+    },
+    {
+      "STT": 89,
+      "MAQG": "GW",
+      "TENQG": "Ghi-nê Bit-xao"
+    },
+    {
+      "STT": 90,
+      "MAQG": "GY",
+      "TENQG": "Guy-a-na"
+    },
+    {
+      "STT": 91,
+      "MAQG": "HK",
+      "TENQG": "Hồng Kông"
+    },
+    {
+      "STT": 92,
+      "MAQG": "HN",
+      "TENQG": "Hon-đu-rat"
+    },
+    {
+      "STT": 93,
+      "MAQG": "HR",
+      "TENQG": "Crô-at-ti-a"
+    },
+    {
+      "STT": 94,
+      "MAQG": "HT",
+      "TENQG": "Hai-i-ti"
+    },
+    {
+      "STT": 95,
+      "MAQG": "HU",
+      "TENQG": "Hun-ga-ri"
+    },
+    {
+      "STT": 96,
+      "MAQG": "ID",
+      "TENQG": "In-đô-nê-xi-a"
+    },
+    {
+      "STT": 97,
+      "MAQG": "IE",
+      "TENQG": "Ai-len"
+    },
+    {
+      "STT": 98,
+      "MAQG": "IL",
+      "TENQG": "I-xra-en"
+    },
+    {
+      "STT": 99,
+      "MAQG": "IN",
+      "TENQG": "Ấn-độ"
+    },
+    {
+      "STT": 100,
+      "MAQG": "IQ",
+      "TENQG": "I-rắc"
+    },
+    {
+      "STT": 101,
+      "MAQG": "IR",
+      "TENQG": "I-ran"
+    },
+    {
+      "STT": 102,
+      "MAQG": "IS",
+      "TENQG": "Ai-xơ-len"
+    },
+    {
+      "STT": 103,
+      "MAQG": "IT",
+      "TENQG": "I-ta-li-a"
+    },
+    {
+      "STT": 104,
+      "MAQG": "JM",
+      "TENQG": "Ja-mai-ca"
+    },
+    {
+      "STT": 105,
+      "MAQG": "JO",
+      "TENQG": "Joóc-đa-ni"
+    },
+    {
+      "STT": 106,
+      "MAQG": "JP",
+      "TENQG": "Nhật Bản"
+    },
+    {
+      "STT": 107,
+      "MAQG": "KE",
+      "TENQG": "Kê-ni-a"
+    },
+    {
+      "STT": 108,
+      "MAQG": "KG",
+      "TENQG": "Kiêc-gi-ki-xtan"
+    },
+    {
+      "STT": 109,
+      "MAQG": "KH",
+      "TENQG": "Căm-pu-chia"
+    },
+    {
+      "STT": 110,
+      "MAQG": "KI",
+      "TENQG": "Ki-ri-ba-ti"
+    },
+    {
+      "STT": 111,
+      "MAQG": "KM",
+      "TENQG": "CHLB Cô-mo"
+    },
+    {
+      "STT": 112,
+      "MAQG": "KN",
+      "TENQG": "Liên bang Xan-kit và Nê-vi"
+    },
+    {
+      "STT": 113,
+      "MAQG": "KP",
+      "TENQG": "CHDCND Triều tiên"
+    },
+    {
+      "STT": 114,
+      "MAQG": "KR",
+      "TENQG": "Hàn Quốc"
+    },
+    {
+      "STT": 115,
+      "MAQG": "KW",
+      "TENQG": "Cô-oét"
+    },
+    {
+      "STT": 116,
+      "MAQG": "KY",
+      "TENQG": "Đảo Cai-man"
+    },
+    {
+      "STT": 117,
+      "MAQG": "KZ",
+      "TENQG": "Ca-dăc-xtan"
+    },
+    {
+      "STT": 118,
+      "MAQG": "LA",
+      "TENQG": "Lào"
+    },
+    {
+      "STT": 119,
+      "MAQG": "LB",
+      "TENQG": "Li-băng"
+    },
+    {
+      "STT": 120,
+      "MAQG": "LI",
+      "TENQG": "Lech-ten-sten"
+    },
+    {
+      "STT": 121,
+      "MAQG": "LK",
+      "TENQG": "Xri-lan-ka"
+    },
+    {
+      "STT": 122,
+      "MAQG": "LR",
+      "TENQG": "Li-bê-ri-a"
+    },
+    {
+      "STT": 123,
+      "MAQG": "LS",
+      "TENQG": "Lê-xô-thô"
+    },
+    {
+      "STT": 124,
+      "MAQG": "LT",
+      "TENQG": "Lit-va"
+    },
+    {
+      "STT": 125,
+      "MAQG": "LU",
+      "TENQG": "Luc-xăm-bua"
+    },
+    {
+      "STT": 126,
+      "MAQG": "LV",
+      "TENQG": "Lat-vi-a"
+    },
+    {
+      "STT": 127,
+      "MAQG": "LY",
+      "TENQG": "Li-bi"
+    },
+    {
+      "STT": 128,
+      "MAQG": "MA",
+      "TENQG": "Ma-rốc"
+    },
+    {
+      "STT": 129,
+      "MAQG": "MC",
+      "TENQG": "Mô-na-cô"
+    },
+    {
+      "STT": 130,
+      "MAQG": "MD",
+      "TENQG": "Môn-đô-va"
+    },
+    {
+      "STT": 131,
+      "MAQG": "MG",
+      "TENQG": "Ma-đa-ga-xca"
+    },
+    {
+      "STT": 132,
+      "MAQG": "MH",
+      "TENQG": "Quần đảo Mat-san"
+    },
+    {
+      "STT": 133,
+      "MAQG": "MK",
+      "TENQG": "Ma-xê-đô-ni-a (CH Nam Tư cũ)"
+    },
+    {
+      "STT": 134,
+      "MAQG": "ML",
+      "TENQG": "Mali"
+    },
+    {
+      "STT": 135,
+      "MAQG": "MM",
+      "TENQG": "My-an-ma"
+    },
+    {
+      "STT": 136,
+      "MAQG": "MN",
+      "TENQG": "Mông Cổ"
+    },
+    {
+      "STT": 137,
+      "MAQG": "MO",
+      "TENQG": "Ma Cao"
+    },
+    {
+      "STT": 138,
+      "MAQG": "MP",
+      "TENQG": "Đảo Ma-ri-a-na Bắc"
+    },
+    {
+      "STT": 139,
+      "MAQG": "MQ",
+      "TENQG": "Mac-ti-nich"
+    },
+    {
+      "STT": 140,
+      "MAQG": "MR",
+      "TENQG": "CH Hồi giáo Mô-ri-ta-ni"
+    },
+    {
+      "STT": 141,
+      "MAQG": "MS",
+      "TENQG": "Môn-xê-rat"
+    },
+    {
+      "STT": 142,
+      "MAQG": "MT",
+      "TENQG": "Man-ta"
+    },
+    {
+      "STT": 143,
+      "MAQG": "MU",
+      "TENQG": "Mô-ri-tuyt"
+    },
+    {
+      "STT": 144,
+      "MAQG": "MV",
+      "TENQG": "Man-đi-vơ"
+    },
+    {
+      "STT": 145,
+      "MAQG": "MW",
+      "TENQG": "Ma-la-uy"
+    },
+    {
+      "STT": 146,
+      "MAQG": "MX",
+      "TENQG": "Mê-hi-cô"
+    },
+    {
+      "STT": 147,
+      "MAQG": "MY",
+      "TENQG": "Ma-lai-xi-a"
+    },
+    {
+      "STT": 148,
+      "MAQG": "MZ",
+      "TENQG": "Mô-dăm-bic"
+    },
+    {
+      "STT": 149,
+      "MAQG": "NA",
+      "TENQG": "Na-mi-bi-a"
+    },
+    {
+      "STT": 150,
+      "MAQG": "NC",
+      "TENQG": "Tân Ca-lê-đô-ni"
+    },
+    {
+      "STT": 151,
+      "MAQG": "NE",
+      "TENQG": "Ni-giê"
+    },
+    {
+      "STT": 152,
+      "MAQG": "NF",
+      "TENQG": "Đảo No-phốc"
+    },
+    {
+      "STT": 153,
+      "MAQG": "NG",
+      "TENQG": "Ni-giê-ri-a"
+    },
+    {
+      "STT": 154,
+      "MAQG": "NI",
+      "TENQG": "Ni-ca-ra-goa"
+    },
+    {
+      "STT": 155,
+      "MAQG": "NL",
+      "TENQG": "Hà Lan"
+    },
+    {
+      "STT": 156,
+      "MAQG": "NO",
+      "TENQG": "Na-uy"
+    },
+    {
+      "STT": 157,
+      "MAQG": "NP",
+      "TENQG": "Nê-pan"
+    },
+    {
+      "STT": 158,
+      "MAQG": "NR",
+      "TENQG": "Na-u-ru"
+    },
+    {
+      "STT": 159,
+      "MAQG": "NU",
+      "TENQG": "Niu-ê"
+    },
+    {
+      "STT": 160,
+      "MAQG": "NZ",
+      "TENQG": "Niu-Di-lân"
+    },
+    {
+      "STT": 161,
+      "MAQG": "OM",
+      "TENQG": "Ô-man"
+    },
+    {
+      "STT": 162,
+      "MAQG": "OTH",
+      "TENQG": "other"
+    },
+    {
+      "STT": 163,
+      "MAQG": "PA",
+      "TENQG": "Pa-na-ma"
+    },
+    {
+      "STT": 164,
+      "MAQG": "PE",
+      "TENQG": "Pê-ru"
+    },
+    {
+      "STT": 165,
+      "MAQG": "PF",
+      "TENQG": "Quần đảo Pô-li-nê-di (thuộc Pháp)"
+    },
+    {
+      "STT": 166,
+      "MAQG": "PG",
+      "TENQG": "Pa-pua Niu Ghi-nê"
+    },
+    {
+      "STT": 167,
+      "MAQG": "PH",
+      "TENQG": "Phi-lip-pin"
+    },
+    {
+      "STT": 168,
+      "MAQG": "PK",
+      "TENQG": "Pa-ki-xtan"
+    },
+    {
+      "STT": 169,
+      "MAQG": "PL",
+      "TENQG": "Ba-lan"
+    },
+    {
+      "STT": 170,
+      "MAQG": "PM",
+      "TENQG": "Sanh-pi-e-rơ và Mi-quê-lon"
+    },
+    {
+      "STT": 171,
+      "MAQG": "PN",
+      "TENQG": "Pít-canh"
+    },
+    {
+      "STT": 172,
+      "MAQG": "PR",
+      "TENQG": "Pu-ec-tô-ri-cô"
+    },
+    {
+      "STT": 173,
+      "MAQG": "PT",
+      "TENQG": "Bồ Đào Nha"
+    },
+    {
+      "STT": 174,
+      "MAQG": "PW",
+      "TENQG": "Pa-lau"
+    },
+    {
+      "STT": 175,
+      "MAQG": "PY",
+      "TENQG": "Pa-ra-guay"
+    },
+    {
+      "STT": 176,
+      "MAQG": "QA",
+      "TENQG": "Qua-ta"
+    },
+    {
+      "STT": 177,
+      "MAQG": "RE",
+      "TENQG": "Rê-uy-ni-ông"
+    },
+    {
+      "STT": 178,
+      "MAQG": "RO",
+      "TENQG": "Ru-ma-ni"
+    },
+    {
+      "STT": 179,
+      "MAQG": "RU",
+      "TENQG": "Liên bang Nga"
+    },
+    {
+      "STT": 180,
+      "MAQG": "RW",
+      "TENQG": "Ru-an-đa"
+    },
+    {
+      "STT": 181,
+      "MAQG": "SA",
+      "TENQG": "Ả-rập Xê-ut"
+    },
+    {
+      "STT": 182,
+      "MAQG": "SB",
+      "TENQG": "Đảo Xa-lô-môn"
+    },
+    {
+      "STT": 183,
+      "MAQG": "SC",
+      "TENQG": "Xây-sen"
+    },
+    {
+      "STT": 184,
+      "MAQG": "SD",
+      "TENQG": "Xu-đăng"
+    },
+    {
+      "STT": 185,
+      "MAQG": "SE",
+      "TENQG": "Thụy-điển"
+    },
+    {
+      "STT": 186,
+      "MAQG": "SG",
+      "TENQG": "Xinh-ga-po"
+    },
+    {
+      "STT": 187,
+      "MAQG": "SH",
+      "TENQG": "Xanh Hê-len"
+    },
+    {
+      "STT": 188,
+      "MAQG": "SI",
+      "TENQG": "Slô-ven-nhi-a"
+    },
+    {
+      "STT": 189,
+      "MAQG": "SJ",
+      "TENQG": "Đảo Svan-bat và Jan-may-en"
+    },
+    {
+      "STT": 190,
+      "MAQG": "SK",
+      "TENQG": "Slô-va-ki-a"
+    },
+    {
+      "STT": 191,
+      "MAQG": "SL",
+      "TENQG": "Xi-ê-ra Lê-ông"
+    },
+    {
+      "STT": 192,
+      "MAQG": "SM",
+      "TENQG": "Xan-ma-ri-nô"
+    },
+    {
+      "STT": 193,
+      "MAQG": "SN",
+      "TENQG": "Xê-nê-gan"
+    },
+    {
+      "STT": 194,
+      "MAQG": "SO",
+      "TENQG": "Xô-ma-li"
+    },
+    {
+      "STT": 195,
+      "MAQG": "SR",
+      "TENQG": "Xu-ri-nam"
+    },
+    {
+      "STT": 196,
+      "MAQG": "ST",
+      "TENQG": "Xao-tô-mê và Prin-xi-pê"
+    },
+    {
+      "STT": 197,
+      "MAQG": "SV",
+      "TENQG": "En-xan-va-đo"
+    },
+    {
+      "STT": 198,
+      "MAQG": "SY",
+      "TENQG": "Xy-ri"
+    },
+    {
+      "STT": 199,
+      "MAQG": "SZ",
+      "TENQG": "Xoa-di-len"
+    },
+    {
+      "STT": 200,
+      "MAQG": "TC",
+      "TENQG": "Tớc-cơ và Cai-cốt"
+    },
+    {
+      "STT": 201,
+      "MAQG": "TD",
+      "TENQG": "Sát"
+    },
+    {
+      "STT": 202,
+      "MAQG": "TG",
+      "TENQG": "Tô-gô"
+    },
+    {
+      "STT": 203,
+      "MAQG": "TH",
+      "TENQG": "Thái Lan"
+    },
+    {
+      "STT": 204,
+      "MAQG": "TJ",
+      "TENQG": "Tat-ji-ki-xtan"
+    },
+    {
+      "STT": 205,
+      "MAQG": "TK",
+      "TENQG": "Tô-kê-lau"
+    },
+    {
+      "STT": 206,
+      "MAQG": "TM",
+      "TENQG": "Tuốc-mê-ni-xtan"
+    },
+    {
+      "STT": 207,
+      "MAQG": "TN",
+      "TENQG": "Tuy-ni-di"
+    },
+    {
+      "STT": 208,
+      "MAQG": "TO",
+      "TENQG": "Tông-ga"
+    },
+    {
+      "STT": 209,
+      "MAQG": "TP",
+      "TENQG": "Đông Ti-mo"
+    },
+    {
+      "STT": 210,
+      "MAQG": "TR",
+      "TENQG": "Thổ-nhĩ-kỳ"
+    },
+    {
+      "STT": 211,
+      "MAQG": "TT",
+      "TENQG": "Tri-ni-đát và Tô-ba-gô"
+    },
+    {
+      "STT": 212,
+      "MAQG": "TV",
+      "TENQG": "Tu-va-lu"
+    },
+    {
+      "STT": 213,
+      "MAQG": "TW",
+      "TENQG": "Đài Loan"
+    },
+    {
+      "STT": 214,
+      "MAQG": "TZ",
+      "TENQG": "Tan-da-ni-a"
+    },
+    {
+      "STT": 215,
+      "MAQG": "UA",
+      "TENQG": "U-crai-đa"
+    },
+    {
+      "STT": 216,
+      "MAQG": "UG",
+      "TENQG": "U-gan-đa"
+    },
+    {
+      "STT": 217,
+      "MAQG": "US",
+      "TENQG": "Mỹ"
+    },
+    {
+      "STT": 218,
+      "MAQG": "UY",
+      "TENQG": "U-ru-guay"
+    },
+    {
+      "STT": 219,
+      "MAQG": "UZ",
+      "TENQG": "U-zơ-bê-ki-xtan"
+    },
+    {
+      "STT": 220,
+      "MAQG": "VA",
+      "TENQG": "Tòa Thánh Va-ti-căng"
+    },
+    {
+      "STT": 221,
+      "MAQG": "VC",
+      "TENQG": "Xan Vin-xăng và Grê-na-đin"
+    },
+    {
+      "STT": 222,
+      "MAQG": "VE",
+      "TENQG": "Vê-nê-xu-ê-la"
+    },
+    {
+      "STT": 223,
+      "MAQG": "VG",
+      "TENQG": "Đảo Vơ-gin (thuộc Anh)"
+    },
+    {
+      "STT": 224,
+      "MAQG": "VI",
+      "TENQG": "Vơ-gin (thuộc Mỹ)"
+    },
+    {
+      "STT": 225,
+      "MAQG": "VN",
+      "TENQG": "Việt Nam"
+    },
+    {
+      "STT": 226,
+      "MAQG": "VU",
+      "TENQG": "Va-nu-a-tu"
+    },
+    {
+      "STT": 227,
+      "MAQG": "WF",
+      "TENQG": "Các đảo Oa-lit và Phu-tu-na"
+    },
+    {
+      "STT": 228,
+      "MAQG": "LC",
+      "TENQG": "Xan-ta-lu-xi-a"
+    },
+    {
+      "STT": 229,
+      "MAQG": "WS",
+      "TENQG": "Tây Xa-moa"
+    },
+    {
+      "STT": 230,
+      "MAQG": "YE",
+      "TENQG": "Y-ê-men"
+    },
+    {
+      "STT": 231,
+      "MAQG": "YU",
+      "TENQG": "Sec-bi-a và Môn-tê-nê-grô"
+    },
+    {
+      "STT": 232,
+      "MAQG": "ZA",
+      "TENQG": "Nam-phi"
+    },
+    {
+      "STT": 233,
+      "MAQG": "ZM",
+      "TENQG": "Dăm-bi-a"
+    },
+    {
+      "STT": 234,
+      "MAQG": "ZR",
+      "TENQG": "Zai-e"
+    },
+    {
+      "STT": 235,
+      "MAQG": "ZW",
+      "TENQG": "Dim-ba-bu-ê"
+    }
+  ]
+}
+
